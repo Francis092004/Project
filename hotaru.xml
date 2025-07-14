@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://hotaru.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://hotaru.com/login</loc>
+  </url>
+
+  <url>
+    <loc>https://hotaru.com/introduction</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/introduction/welcome</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/introduction/welcome/paragraph</loc>
+  </url>
+
+  <url>
+    <loc>https://hotaru.com/order-now</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/order-now/info</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/order-now/info/name</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/order-now/info/address</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/order-now/info/quantity</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/order-now/info/phone</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/order-now/place-order</loc>
+  </url>
+
+  <url>
+    <loc>https://hotaru.com/about-us</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/about-us/info</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/about-us/contact</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/about-us/contact/branch</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/about-us/contact/number</loc>
+  </url>
+  <url>
+    <loc>https://hotaru.com/about-us/contact/email</loc>
+  </url>
+
+</urlset>
